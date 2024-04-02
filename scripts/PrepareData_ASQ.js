@@ -195,11 +195,12 @@ function prepareInterviewData_asq() {
     flight.Flight_Show = flight.Flight;
 
     //speciall mapping ICAO - IATA code
-    if ((flight_letters == "EZS") || (flight_letters == "EZY") ) 
+    if ((flight_letters == "EZS") || (flight_letters == "EZY") || (flight_letters == "EJU"))
     {
       var new_flight_letters = flight_letters;
       if (flight_letters == "EZY") new_flight_letters = "U2";
       if (flight_letters == "EZS") new_flight_letters = "DS";
+      if (flight_letters == "EJU") new_flight_letters = "EC";
       
       flight.Flight_Show = new_flight_letters + " " + flight_number;
       flight.AirlineCode = new_flight_letters;
