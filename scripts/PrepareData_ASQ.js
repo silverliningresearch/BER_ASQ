@@ -23,7 +23,6 @@ var total_quota_completed_asq;
 var total_hard_quota_asq;
 
 /************************************/
-/************************************/
 function initCurrentTimeVars_asq() {
   var today = new Date();
 
@@ -273,6 +272,15 @@ function prepareInterviewData_asq() {
        }
     }
 
-    if (flight.Quota>0) daily_plan_data_asq.push(flight);
+    if (flight.Quota>0) {
+      //special for BER
+      var hide_routes = ["KL-AMS", "AF-CDG", "UA-EWR", "LH-FRA", "BA-LHR", 
+      "LH-MUC", "LY-TLV", "OS-VIE","LX-ZRH"];
+
+      if (!hide_routes.includes(flight.AirlineCode + "-" + flight.Dest))
+      {
+        daily_plan_data_asq.push(flight);
+      }
+    }
   }
 }

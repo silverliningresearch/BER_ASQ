@@ -197,7 +197,7 @@ function CalculateAirportAirLineReport_asq() {
             for (var k = 0; k < daily_plan_data_temp.length; k++) 
             {
               if ((daily_plan_data_temp[k].AirlineCode == row.AirlineCode) && (daily_plan_data_temp[k].dest_airline_still_missing==1)
-              &&  (daily_plan_data_temp[k].Completed_percent<85))
+              &&  (daily_plan_data_temp[k].Completed_percent<85)) //completed of airline-dest
               {
                 found = 1;
                 break;
@@ -248,6 +248,16 @@ function CalculateAirportAirLineReport_asq() {
             row.Priority = 1;
           }
         }
+      }
+
+      //specail for BER
+      var focus_dest = ["ADB", "AGP", "ATH", "AYT", "FAO", "FUE", "HER", "KRK", 
+                        "LPA", "SKG", "SKP", "TFS"];
+
+      if (focus_dest.includes(daily_plan_data_temp[i].Dest)) 
+      {
+        //console.log("daily_plan_data_temp[i].AirlineCode", daily_plan_data_temp[i].AirlineCode);
+        row.Priority = 4;
       }
     }
   }
