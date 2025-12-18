@@ -66,16 +66,20 @@ function initCurrentTimeVars_asq() {
       total_quota_asq = 1500;
       break;            
 
-    case "2024-Q2":
-      total_quota_asq = 1100;
-      break;   
+
 
     case "2025-Q1":
     case "2025-Q2":      
     case "2025-Q3":       
+    case "2025-Q4":       
       total_quota_asq = 1100;
       break;   
-              
+
+    case "2026-Q1":       
+      total_quota_asq = 1500;
+      break;   
+
+      
     default:
       total_quota_asq = 1500;
       break;
@@ -287,9 +291,15 @@ function prepareInterviewData_asq() {
       var hide_routes = ["KL-AMS", "AF-CDG", "UA-EWR", "LH-FRA", "BA-LHR", 
       "LH-MUC", "LY-TLV", "OS-VIE","LX-ZRH"];
 
+      var hide_dest = ["LCY"];
+
       if (!hide_routes.includes(flight.AirlineCode + "-" + flight.Dest))
       {
-        daily_plan_data_asq.push(flight);
+       if (!hide_dest.includes(flight.Dest)) // from 2026-Q1
+        {
+          //if (flight.Dest == "AGP")  // testing
+          daily_plan_data_asq.push(flight);
+        }
       }
     }
   }
