@@ -6083,6 +6083,734 @@
   "Dest": "ZRH",
   "Quota": 63,
   "Quarter": "2026-Q1"
+ },
+
+
+
+ {
+  "Dest": "ADB",
+  "Quota": 12,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "AGA",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "AGP",
+  "Quota": 15,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "ALC",
+  "Quota": 4,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "AMM",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "AMS",
+  "Quota": 39,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "ARN",
+  "Quota": 24,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "ATH",
+  "Quota": 19,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "AUH",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "AYT",
+  "Quota": 41,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BCN",
+  "Quota": 35,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BEG",
+  "Quota": 9,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BEY",
+  "Quota": 4,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BGO",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BGY",
+  "Quota": 8,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BHX",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BIA",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BIO",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BJV",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BLQ",
+  "Quota": 5,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BOD",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BOJ",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BRI",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BRS",
+  "Quota": 4,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BRU",
+  "Quota": 20,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BSL",
+  "Quota": 7,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BTS",
+  "Quota": 4,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BUD",
+  "Quota": 19,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "BZO",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "CAI",
+  "Quota": 5,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "CDG",
+  "Quota": 44,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "CDT",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "CFU",
+  "Quota": 8,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "CGN",
+  "Quota": 16,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "CHQ",
+  "Quota": 5,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "CLJ",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "COV",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "CPH",
+  "Quota": 36,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "CTA",
+  "Quota": 8,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "DBV",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "DJE",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "DLM",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "DOH",
+  "Quota": 24,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "DUB",
+  "Quota": 23,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "DUS",
+  "Quota": 17,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "DWC",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "EBL",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "EDI",
+  "Quota": 9,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "EMA",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "ESB",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "EVN",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "EWR",
+  "Quota": 8,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "FAO",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "FCO",
+  "Quota": 15,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "FDH",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "FNC",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "FRA",
+  "Quota": 108,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "FUE",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "GOT",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "GRZ",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "GVA",
+  "Quota": 5,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "GYD",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "GZT",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "HEL",
+  "Quota": 25,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "HER",
+  "Quota": 13,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "HRG",
+  "Quota": 14,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "IBZ",
+  "Quota": 5,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "IST",
+  "Quota": 33,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "JFK",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "KEF",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "KGS",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "KUT",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "LCA",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "LCY",
+  "Quota": 11,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "LGW",
+  "Quota": 16,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "LHR",
+  "Quota": 39,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "LIN",
+  "Quota": 12,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "LIS",
+  "Quota": 19,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "LPA",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "LTN",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "LUX",
+  "Quota": 4,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "LYS",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "MAD",
+  "Quota": 21,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "MAN",
+  "Quota": 13,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "MIR",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "MLA",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "MRS",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "MUC",
+  "Quota": 52,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "MXP",
+  "Quota": 5,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "NAP",
+  "Quota": 10,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "NCE",
+  "Quota": 15,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "NCL",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "NTE",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "OLB",
+  "Quota": 7,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "OPO",
+  "Quota": 7,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "ORY",
+  "Quota": 19,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "OSL",
+  "Quota": 16,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "OTP",
+  "Quota": 11,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "PEK",
+  "Quota": 7,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "PFO",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "PMI",
+  "Quota": 56,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "PMO",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "PRN",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "PSA",
+  "Quota": 7,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "RAK",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "REG",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "RHO",
+  "Quota": 8,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "RIX",
+  "Quota": 7,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "RMF",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "RMO",
+  "Quota": 12,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SAW",
+  "Quota": 32,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SCN",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SEN",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SKG",
+  "Quota": 10,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SKP",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SOF",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SPU",
+  "Quota": 11,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SSH",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "STN",
+  "Quota": 19,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "STR",
+  "Quota": 21,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SVQ",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SZF",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "SZG",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TBS",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TFS",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TGD",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TIA",
+  "Quota": 9,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TIV",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TLL",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TLV",
+  "Quota": 12,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TRS",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TSR",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TUN",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "TZL",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "VAR",
+  "Quota": 4,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "VCE",
+  "Quota": 11,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "VIE",
+  "Quota": 44,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "VLC",
+  "Quota": 5,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "VNO",
+  "Quota": 6,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "WAW",
+  "Quota": 9,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "XRY",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "YYZ",
+  "Quota": 1,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "ZAD",
+  "Quota": 3,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "ZAG",
+  "Quota": 2,
+  "Quarter": "2026-Q2"
+ },
+ {
+  "Dest": "ZRH",
+  "Quota": 58,
+  "Quarter": "2026-Q2"
  }
 ]    
 
