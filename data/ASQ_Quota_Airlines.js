@@ -3582,7 +3582,7 @@
   "Notes": ""
  },
  {
-  "Airline": "DS",
+  "Airline": "EC",
   "Quota": 22,
   "Quarter": "2026-Q2",
   "Notes": ""

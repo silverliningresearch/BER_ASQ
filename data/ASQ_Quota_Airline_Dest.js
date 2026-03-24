@@ -8548,19 +8548,19 @@
   "Notes": ""
  },
  {
-  "Airline_Dest": "DS-ZRH",
+  "Airline_Dest": "EC-ZRH",
   "Quota": 10.0,
   "Quarter": "2026-Q2",
   "Notes": ""
  },
  {
-  "Airline_Dest": "DS-BSL",
+  "Airline_Dest": "EC-BSL",
   "Quota": 7.0,
   "Quarter": "2026-Q2",
   "Notes": ""
  },
  {
-  "Airline_Dest": "DS-GVA",
+  "Airline_Dest": "EC-GVA",
   "Quota": 5.0,
   "Quarter": "2026-Q2",
   "Notes": ""
